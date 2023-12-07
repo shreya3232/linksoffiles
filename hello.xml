@@ -1,0 +1,2215 @@
+<?xml version="1.0"?>
+
+<resultset statement="SELECT * FROM daily_data.all1_data"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOBASS 400 in-Ear Earphones with 10mm Drivers, Tangle Free cable & 3.5mm Jack Wired HeadsetÂ Â (Platinum Black, In the Ear)</field>
+		<field name="price">â‚¹300</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:36:09</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOBASS 410 in Ear Earphones with Mic, 3D Bass with XL Drivers & 3.5mm Jack Wired HeadsetÂ Â (Platinum Black, In the Ear)</field>
+		<field name="price">â‚¹449</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:36:11</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title"></field>
+		<field name="price"></field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:36:11</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOBASS 411 in Ear Wired Earphones with HD Mic, 10mm Dynamic Driver & 3.5mm Jack Wired HeadsetÂ Â (Blue, In the Ear)</field>
+		<field name="price"></field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:36:13</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOBASS 411 in Ear Wired Earphones with HD Mic, 10mm Dynamic Driver & 3.5mm Jack Wired HeadsetÂ Â (White, In the Ear)</field>
+		<field name="price"></field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:36:14</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOBASS 610 in-Ear Earphones with 12mm Drivers, Tangle Free cable & 3.5mm Jack Wired HeadsetÂ Â (Platinum Black, In the Ear)</field>
+		<field name="price">â‚¹349</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:36:15</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOBASS 900 in-Ear Earphones with 10mm Drivers, Tangle Free cable & 3.5mm Jack Wired HeadsetÂ Â (Platinum Black, In the Ear)</field>
+		<field name="price">â‚¹550</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:36:16</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOBASS 910 Wired Metal Earphones with 9mm Drivers,Tangle Free cable & 3.5mm Jack Wired HeadsetÂ Â (Gun Metal Gray, In the Ear)</field>
+		<field name="price">â‚¹299</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:36:17</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOBOLD 400 Bluetooth Wireless On Ear Headphones with 40mm Drivers &15H Playtime Bluetooth HeadsetÂ Â (Platinum Black, On the Ear)</field>
+		<field name="price"></field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:36:18</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOBOLD 410 Bluetooth Wireless On Ear Headphones with 40mm Drivers &15H Playtime Bluetooth HeadsetÂ Â (Platinum Black, On the Ear)</field>
+		<field name="price"></field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:36:18</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOBOLD 600 Bluetooth Wireless On Ear Headphones with 40mm Drivers &15H Playtime Bluetooth HeadsetÂ Â (Platinum Black, On the Ear)</field>
+		<field name="price"></field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:36:19</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOBOLD 610 Bluetooth Wireless On Ear Headphones with 40mm Drivers &15H Playtime Bluetooth HeadsetÂ Â (Platinum Black, On the Ear)</field>
+		<field name="price"></field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:36:21</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOBUDS 400 True Wireless in Ear Earbuds, ENC, 25H Playtime, Fast Charge,Type C Bluetooth HeadsetÂ Â (Platinum Black, True Wireless)</field>
+		<field name="price">â‚¹1,189</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:36:22</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOBUDS 410 True Wireless in Ear Earbuds, 20 Hours Battery,IPX5 & Type C Bluetooth HeadsetÂ Â (Platinum Black, True Wireless)</field>
+		<field name="price">â‚¹1,099</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:36:23</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOBUDS 600 True Wireless Earbuds,ENC,40H Playtime,Fast Charge,IPX5 & Type C Bluetooth HeadsetÂ Â (Platinum Black, True Wireless)</field>
+		<field name="price">â‚¹1,299</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:36:24</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOBUDS 621 True Wireless in Ear Earbuds, 20 Hours Battery, Fast Charge & Type C Bluetooth HeadsetÂ Â (Platinum Black, True Wireless)</field>
+		<field name="price">â‚¹1,999</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:36:25</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOBUDS 901 Bluetooth HeadsetÂ Â (Platinum Black, True Wireless)</field>
+		<field name="price"></field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:36:26</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOBUDS 920 True Wireless Earbuds, 30H Battery, Fast Charge ,IPX5 & Dual pairing Bluetooth HeadsetÂ Â (Platinum Black, True Wireless)</field>
+		<field name="price">â‚¹2,763</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:36:27</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOCRUSH 410 - Bluetooth Speaker, 1800mAh - 15H Battery, IPX7 & ABS Fabric 4 W Bluetooth SpeakerÂ Â (Platinum Black, Stereo Channel)</field>
+		<field name="price">â‚¹999</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:36:28</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOCRUSH 421 - Bluetooth Speaker, 1800mAh - 15H Battery, IPX7 & ABS Fabric 5 W Bluetooth SpeakerÂ Â (Platinum Black, Stereo Channel)</field>
+		<field name="price">â‚¹1,210</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:36:29</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOCRUSH 900 - Bluetooth Speaker, 3600mAh - 25H Battery, IPX7, ABS Fabric 16 W Bluetooth SpeakerÂ Â (Platinum Black, Stereo Channel)</field>
+		<field name="price">â‚¹2,999</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:36:30</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOKIXX 400 Bluetooth Neckband, 9H Battery, 10mm Drivers, Magnetic buds, Type C Bluetooth HeadsetÂ Â (Platinum Black, In the Ear)</field>
+		<field name="price">â‚¹1,199</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:36:31</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOKIXX 410 Bluetooth Neckband, 8H battery, 10mm Drivers, IPX5, Magnetic Buds Bluetooth HeadsetÂ Â (Platinum Black, In the Ear)</field>
+		<field name="price">â‚¹1,306</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:36:32</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOKIXX 421 Bluetooth Neckband, 10H Battery, 10mm Drivers, Magnetic Buds Bluetooth HeadsetÂ Â (Platinum Black, In the Ear)</field>
+		<field name="price">â‚¹1,299</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:36:33</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOKIXX 610 Bluetooth Neckband, 12H Battery, Magnetic Buds,
+ Lightweight Design Bluetooth HeadsetÂ Â (Platinum Black, In the Ear)</field>
+		<field name="price">â‚¹1,499</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:36:35</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOKIXX 620 Bluetooth Neckband, 20H Battery, 10mm Drivers, Magnetic Buds Bluetooth HeadsetÂ Â (Platinum Black, In the Ear)</field>
+		<field name="price">â‚¹1,499</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:36:36</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOKIXX 621 Bluetooth Neckband|22H Battery-Fast Charge,ENC & Smart Magnetic Buds Bluetooth HeadsetÂ Â (Platinum Black, In the Ear)</field>
+		<field name="price">â‚¹1,199</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:36:38</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOKIXX 630 Bluetooth Neckband,10H Battery-Fast Charge,Dual Pairing,Magnetic Buds Bluetooth HeadsetÂ Â (Platinum Black, In the Ear)</field>
+		<field name="price">â‚¹1,499</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:36:39</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOKIXX 651 Bluetooth Neckband, 12H Battery-Fast Charge, Metal Magnetic Buds Bluetooth HeadsetÂ Â (Graphite Gray, In the Ear)</field>
+		<field name="price">â‚¹1,599</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:36:40</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOKIXX 900 Bluetooth Neckband,12H Battery,12mm Drivers, Premium Gun Metal Finish Bluetooth HeadsetÂ Â (Platinum Black, In the Ear)</field>
+		<field name="price">â‚¹1,598</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:36:42</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOKIXX 952 Bluetooth Neckband, 106H Battery-Fast Charge, ENC, 10mm Drivers Bluetooth HeadsetÂ Â (Gun Metal Grey, In the Ear)</field>
+		<field name="price">â‚¹1,399</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:36:44</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOSURROUND 410 Max 2.0 Channel Soundbar with HDMI|AUX|USB|OPT & LED Display 40 W Bluetooth SoundbarÂ Â (Platinum Black, 2.1 Channel)</field>
+		<field name="price">â‚¹3,499</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:36:44</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOSURROUND 430 | 80 W Bluetooth SoundbarÂ Â (Platinum Black, 2.1 Channel)</field>
+		<field name="price">â‚¹3,999</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:36:46</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOSURROUND 610 | 100 W Bluetooth SoundbarÂ Â (Platinum Black, 2.1 Channel)</field>
+		<field name="price">â‚¹5,299</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:36:47</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOSURROUND 620 Max 2.1 Channel Soundbar, 5.25" Subwoofer & LED Display 100 W Bluetooth SoundbarÂ Â (Platinum Black, 2.1 Channel)</field>
+		<field name="price">â‚¹16,999</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:36:48</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOSURROUND 900 | 200 W Bluetooth SoundbarÂ Â (Platinum Black, 2.1 Channel)</field>
+		<field name="price">â‚¹6,599</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:36:49</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOSURROUND 920 200 W Bluetooth SoundbarÂ Â (Platinum Black, 2.1 Channel)</field>
+		<field name="price">â‚¹7,599</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:36:51</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoBass 400</field>
+		<field name="price">â‚¹299</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:36:51</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoBass 410</field>
+		<field name="price">â‚¹259</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:36:52</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoBass 411</field>
+		<field name="price">â‚¹349</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:36:53</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoBass 411</field>
+		<field name="price">â‚¹349</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:36:54</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoBass 411</field>
+		<field name="price">â‚¹349</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:36:55</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoBass 610</field>
+		<field name="price">â‚¹399</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:36:56</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoBass 900</field>
+		<field name="price">â‚¹549</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:36:57</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoBass 910</field>
+		<field name="price">â‚¹399</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:36:58</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoBold 400</field>
+		<field name="price">â‚¹1,199</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:36:59</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoBold 410</field>
+		<field name="price">â‚¹1,099</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:00</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoBold 600</field>
+		<field name="price">â‚¹1,299</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:00</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoBold 610</field>
+		<field name="price">â‚¹1,399</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:01</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoBuds 400</field>
+		<field name="price">â‚¹999</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:02</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoBuds 410</field>
+		<field name="price">â‚¹1,099</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:03</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoBuds 600</field>
+		<field name="price">â‚¹1,299</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:03</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoBuds 621</field>
+		<field name="price">â‚¹1,699</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:04</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title"></field>
+		<field name="price"></field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:05</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoBuds 901</field>
+		<field name="price">â‚¹1,599</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:05</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoBuds 902</field>
+		<field name="price">â‚¹1,999</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:06</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoBuds 920</field>
+		<field name="price">â‚¹1,999</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:07</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoCrush 410</field>
+		<field name="price">â‚¹999</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:09</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoCrush 421</field>
+		<field name="price">â‚¹999</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:09</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoCrush 900</field>
+		<field name="price">â‚¹2,499</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:10</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoKixx 400</field>
+		<field name="price">â‚¹699</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:11</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoKixx 410</field>
+		<field name="price">â‚¹699</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:12</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoKixx 421</field>
+		<field name="price">â‚¹749</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:13</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoKixx 610</field>
+		<field name="price">â‚¹799</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:14</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoKixx 620</field>
+		<field name="price">â‚¹899</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:14</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoKixx 621</field>
+		<field name="price">â‚¹999</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:15</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoKixx 630</field>
+		<field name="price">â‚¹899</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:16</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoKixx 651</field>
+		<field name="price">â‚¹1,199</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:16</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GOKIXX 652</field>
+		<field name="price">â‚¹1,199</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:17</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoKixx 900</field>
+		<field name="price">â‚¹999</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:18</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoKixx 952</field>
+		<field name="price">â‚¹1,399</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:19</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title"></field>
+		<field name="price"></field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:20</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title"></field>
+		<field name="price"></field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:20</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title"></field>
+		<field name="price"></field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:21</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title"></field>
+		<field name="price"></field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:21</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title"></field>
+		<field name="price"></field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:22</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title"></field>
+		<field name="price"></field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:22</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title"></field>
+		<field name="price"></field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:23</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoKixx 621</field>
+		<field name="price">â‚¹999</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:24</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoKixx 621</field>
+		<field name="price">â‚¹999</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:24</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka.com</field>
+		<field name="title">GOVO GOBASS 400 in-Ear Wired Earphones 3D Bass HD Mic Passive Noise Cancellation (Platinum Black)(Free Size)</field>
+		<field name="price">â‚¹399</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:25</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka.com</field>
+		<field name="title">GOVO GOBASS 410 in-Ear Wired Earphones 3D Bass HD Mic Passive Noise Cancellation (Platinum Black)(Free Size)</field>
+		<field name="price">â‚¹1149</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:25</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka.com</field>
+		<field name="title">GOVO GOBASS 900 in-Ear Wired Earphones 3D Sound Super Bass and HD Mic (Black)(Free Size)</field>
+		<field name="price">â‚¹1399</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:25</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka.com</field>
+		<field name="title">GOVO GOBASS 910 in-Ear Wired Earphones 3D Sound Magnetic Earbuds and HD mic (Black)(Free Size)</field>
+		<field name="price">â‚¹549</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:25</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka.com</field>
+		<field name="title">GOVO GOBUDS 400 TWS Earbuds 3D Stereo Sound 20 Hrs Battery Life IPX5 Touch Control (Platinum Black)(Free Size)</field>
+		<field name="price">â‚¹1099</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:25</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka.com</field>
+		<field name="title">GOVO GOBUDS 600 TWS Earbuds 3D Stereo Sound 33 Hrs Battery IPX5 Super Touch Control (Black)(Free Size)</field>
+		<field name="price">â‚¹1299</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:25</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka.com</field>
+		<field name="title">GOVO GOBUDS 920 TWS Earbuds 30 Hours Battery Life IPX5 BT v5.1 Super Touch Control (Platinum Black)(Free Size)</field>
+		<field name="price">â‚¹2499</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:25</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka.com</field>
+		<field name="title">GOVO GOKIXX 400 in-Ear Wireless Neckband with Magnetic Earbuds 8 Hrs Playtime IPX5 (Platinum Black)(Free Size)</field>
+		<field name="price">â‚¹699</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:26</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka.com</field>
+		<field name="title">GOVO GOKIXX 410 in-Ear Neckband with Magnetic Earbuds 3D Stereo 8 Hrs Playtime (Platinum Black)(Free Size)</field>
+		<field name="price">â‚¹769</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:26</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka.com</field>
+		<field name="title">GOVO GOKIXX 421 in-Ear Neckband with Magnetic Earbuds 10 Hrs+ Playtime IPX5 (Platinum Black)(Free Size)</field>
+		<field name="price">â‚¹699</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:26</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka.com</field>
+		<field name="title">GOVO GOKIXX 610 in-Ear Neckband with Metallic and Magnetic Earbuds 12H Playtime IPX5 (Black)(Free Size)</field>
+		<field name="price">â‚¹799</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:27</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka.com</field>
+		<field name="title">GOVO GOKIXX 620 Wireless Neckband Magnetic buds 3D Surround 20 H Playtime IPX5 (Platinum Black)(Free Size)</field>
+		<field name="price">â‚¹799</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:27</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka.com</field>
+		<field name="title">GOVO GOKIXX 630 in-Ear Neckband with Magnetic Earbuds 10 Hrs+ Playtime IPX5 (Platinum Black)(Free Size)</field>
+		<field name="price">â‚¹899</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:27</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka.com</field>
+		<field name="title">GOVO GOKIXX 900 in-Ear Neckband with Magnetic Earbuds 3D Surround 12H Playtime IPX5 (Black)(Free Size)</field>
+		<field name="price">â‚¹899</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:27</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka.com</field>
+		<field name="title">GOVO GOCRUSH 410 Portable BT Speaker 4W sound 15 Hrs Playtime IPX7 ABS fabric (Platinum Black)(Free Size)</field>
+		<field name="price">â‚¹1699</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:27</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka.com</field>
+		<field name="title">GOVO GOCRUSH 421 Portable BT Speaker 5W sound 15 Hrs Playtime IPX7 ABD fabric (Platinum Black)(Free Size)</field>
+		<field name="price">â‚¹1699</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:28</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka.com</field>
+		<field name="title">GOVO GOCRUSH 900 Wireless Speaker 24W Explosive sound 15H Playtime IPX7 ABS Fabric (Black)(Free Size)</field>
+		<field name="price">â‚¹3499</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:28</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka Fashion</field>
+		<field name="title">GOBASS 410 in-Ear Wired Earphones 3D Bass HD Mic Passive Noise Cancellation (Platinum Black)</field>
+		<field name="price">â‚¹701</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:28</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka Fashion</field>
+		<field name="title">GOBASS 400 in-Ear Wired Earphones 3D Bass HD Mic Passive Noise Cancellation (Platinum Black)</field>
+		<field name="price">â‚¹504</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:28</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka Fashion</field>
+		<field name="title">GOBASS 610 in-Ear Wired Earphones with HD-Mic Powerful Bass Hammer Design (Platinum Black)</field>
+		<field name="price">â‚¹806</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:29</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka Fashion</field>
+		<field name="title">GOBASS 900 in-Ear Wired Earphones 3D Sound Super Bass and HD Mic (Black)</field>
+		<field name="price">â‚¹854</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:29</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka Fashion</field>
+		<field name="title">GOBASS 910 in-Ear Wired Earphones 3D Sound Magnetic Earbuds and HD mic (Black)</field>
+		<field name="price">â‚¹854</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:29</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka Fashion</field>
+		<field name="title">GOBUDS 400 TWS Earbuds 3D Stereo Sound 20 Hrs Battery Life IPX5 Touch Control (Platinum Black)</field>
+		<field name="price">â‚¹2,310</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:30</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka Fashion</field>
+		<field name="title">GOBUDS 600 TWS Earbuds 3D Stereo Sound 33 Hrs Battery IPX5 Super Touch Control (Black)</field>
+		<field name="price">â‚¹2,613</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:30</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka Fashion</field>
+		<field name="title">GOBUDS 920 TWS Earbuds 30 Hours Battery Life IPX5 BT v5.1 Super Touch Control (Platinum Black)</field>
+		<field name="price">â‚¹4,788</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:30</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka Fashion</field>
+		<field name="title">GOKIXX 400 in-Ear Wireless Neckband with Magnetic Earbuds 8 Hrs Playtime IPX5 (Platinum Black)</field>
+		<field name="price">â‚¹699</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:31</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka Fashion</field>
+		<field name="title">GOKIXX 410 in-Ear Neckband with Magnetic Earbuds 3D Stereo 8 Hrs Playtime (Platinum Black)</field>
+		<field name="price">â‚¹2,607</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:31</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka Fashion</field>
+		<field name="title">GOKIXX 421 in-Ear Neckband with Magnetic Earbuds 10 Hrs+ Playtime IPX5 (Platinum Black)</field>
+		<field name="price">â‚¹2,607</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:32</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka Fashion</field>
+		<field name="title">GOKIXX 610 in-Ear Neckband with Metallic and Magnetic Earbuds 12H Playtime IPX5 (Black)</field>
+		<field name="price">â‚¹3,002</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:32</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka Fashion</field>
+		<field name="title">GOKIXX 620 Wireless Neckband Magnetic buds 3D Surround 20 H Playtime IPX5 (Platinum Black)</field>
+		<field name="price">â‚¹3,002</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:32</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka Fashion</field>
+		<field name="title">GOKIXX 900 in-Ear Neckband with Magnetic Earbuds 3D Surround 12H Playtime IPX5 (Black)</field>
+		<field name="price">â‚¹3,040</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:33</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka Fashion</field>
+		<field name="title">GOCRUSH 410 Portable BT Speaker 4W sound 15 Hrs Playtime IPX7 ABS fabric (Platinum Black)</field>
+		<field name="price">â‚¹2,800</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:33</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka Fashion</field>
+		<field name="title">GOCRUSH 421 Portable BT Speaker 5W sound 15 Hrs Playtime IPX7 ABD fabric (Platinum Black)</field>
+		<field name="price">â‚¹3,285</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:33</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka Fashion</field>
+		<field name="title">GOCRUSH 900 Wireless Speaker 24W Explosive sound 15H Playtime IPX7 ABS Fabric (Black)</field>
+		<field name="price">â‚¹4,480</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:34</field>
+	</row>
+
+	<row>
+		<field name="website">Jiomart</field>
+		<field name="title">Govo GoBass 410 Wired Earphone with Super Bass,Passive noise cancellation, HD microphone, Multifunction control, Black</field>
+		<field name="price"></field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:34</field>
+	</row>
+
+	<row>
+		<field name="website">Jiomart</field>
+		<field name="title">Govo GoBass 610 Wired Earphone with Super Bass, Black</field>
+		<field name="price"></field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:34</field>
+	</row>
+
+	<row>
+		<field name="website">Jiomart</field>
+		<field name="title">Govo GoBass 910 Wired Earphone with Super Bass, Black</field>
+		<field name="price"></field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:35</field>
+	</row>
+
+	<row>
+		<field name="website">Jiomart</field>
+		<field name="title">GOVO GoBuds 600 True Wireless Bluetooth Earbuds with Up to 33 Hour Battery Life, Platinum Black</field>
+		<field name="price"></field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:35</field>
+	</row>
+
+	<row>
+		<field name="website">Jiomart</field>
+		<field name="title">GOVO GoBuds 920 True Wireless Bluetooth Earbuds with Upto 30 Hour Battery Life, Platinum Black</field>
+		<field name="price"></field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:36</field>
+	</row>
+
+	<row>
+		<field name="website">Jiomart</field>
+		<field name="title">Govo GOKIXX 410 Wireless Bluetooth Neckband Earphone with IPX5 Water Resistant, Platinum Black</field>
+		<field name="price"></field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:36</field>
+	</row>
+
+	<row>
+		<field name="website">Jiomart</field>
+		<field name="title">Govo GOKIXX 610 Wireless Bluetooth Neckband Earphone with IPX5 Water Resistant, Platinum Black</field>
+		<field name="price"></field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:37</field>
+	</row>
+
+	<row>
+		<field name="website">Jiomart</field>
+		<field name="title">Govo GOKIXX 620 Wireless Bluetooth Neckband Earphone with IPX5 Water Resistant, Platinum Black</field>
+		<field name="price"></field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:37</field>
+	</row>
+
+	<row>
+		<field name="website">Jiomart</field>
+		<field name="title">Govo GOKIXX 900 Wireless Bluetooth Neckband Earphone with IPX5 Water Resistant, Gun Metal Grey</field>
+		<field name="price"></field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:37</field>
+	</row>
+
+	<row>
+		<field name="website">Jiomart</field>
+		<field name="title">Govo GoCrush 410 Bluetooth Multimedia Speaker with 3D Sound, IPX7 Water Resistant, Platinum Black</field>
+		<field name="price"></field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:38</field>
+	</row>
+
+	<row>
+		<field name="website">Jiomart</field>
+		<field name="title">Govo GoCrush 421 Bluetooth Multimedia Speaker with 3D Sound, IPX7 Water Resistant, Platinum Black</field>
+		<field name="price"></field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:38</field>
+	</row>
+
+	<row>
+		<field name="website">Jiomart</field>
+		<field name="title">GOVO Go Buds 900 True Wireless Earbuds with Up to 20 Hours Playback, Black</field>
+		<field name="price"></field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:39</field>
+	</row>
+
+	<row>
+		<field name="website">RelianceDigital</field>
+		<field name="title">Govo GoBass 410 Wired Earphone with Super Bass,Passive noise cancellation, HD microphone, Multifunction control, Black(493072621)</field>
+		<field name="price">Offer Price: Â â‚¹369.00</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:40</field>
+	</row>
+
+	<row>
+		<field name="website">RelianceDigital</field>
+		<field name="title">Govo GoBass 610 Wired Earphone with Super Bass, Black(493072622)</field>
+		<field name="price">Offer Price: Â â‚¹449.00</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:40</field>
+	</row>
+
+	<row>
+		<field name="website">RelianceDigital</field>
+		<field name="title">Govo GoBass 910 Wired Earphone with Super Bass, Black(493072624)</field>
+		<field name="price">Offer Price: Â â‚¹389.00</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:41</field>
+	</row>
+
+	<row>
+		<field name="website">RelianceDigital</field>
+		<field name="title">GOVO GoBuds 600 True Wireless Bluetooth Earbuds with Up to 33 Hour Battery Life, Platinum Black(493072611)</field>
+		<field name="price">Offer Price: Â â‚¹1,599.00</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:42</field>
+	</row>
+
+	<row>
+		<field name="website">RelianceDigital</field>
+		<field name="title">GOVO GoBuds 920 True Wireless Bluetooth Earbuds with Upto 30 Hour Battery Life, Platinum Black(493072613)</field>
+		<field name="price">Deal Price: Â â‚¹1,943.00</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:42</field>
+	</row>
+
+	<row>
+		<field name="website">RelianceDigital</field>
+		<field name="title">Govo GOKIXX 410 Wireless Bluetooth Neckband Earphone with IPX5 Water Resistant, Platinum Black(493072614)</field>
+		<field name="price">Deal Price: Â â‚¹493.00</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:43</field>
+	</row>
+
+	<row>
+		<field name="website">RelianceDigital</field>
+		<field name="title">Govo GOKIXX 610 Wireless Bluetooth Neckband Earphone with IPX5 Water Resistant, Platinum Black(493072616)</field>
+		<field name="price">Offer Price: Â â‚¹1,399.00</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:44</field>
+	</row>
+
+	<row>
+		<field name="website">RelianceDigital</field>
+		<field name="title">Govo GOKIXX 620 Wireless Bluetooth Neckband Earphone with IPX5 Water Resistant, Platinum Black(493072617)</field>
+		<field name="price">Offer Price: Â â‚¹1,399.00</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:45</field>
+	</row>
+
+	<row>
+		<field name="website">RelianceDigital</field>
+		<field name="title">Govo GOKIXX 900 Wireless Bluetooth Neckband Earphone with IPX5 Water Resistant, Gun Metal Grey(493072619)</field>
+		<field name="price">Offer Price: Â â‚¹1,599.00</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:46</field>
+	</row>
+
+	<row>
+		<field name="website">RelianceDigital</field>
+		<field name="title">Govo GoCrush 410 Bluetooth Multimedia Speaker with 3D Sound, IPX7 Water Resistant, Platinum Black(493072625)</field>
+		<field name="price">Offer Price: Â â‚¹1,559.00</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:47</field>
+	</row>
+
+	<row>
+		<field name="website">RelianceDigital</field>
+		<field name="title">Govo GoCrush 421 Bluetooth Multimedia Speaker with 3D Sound, IPX7 Water Resistant, Platinum Black(493072626)</field>
+		<field name="price">Offer Price: Â â‚¹1,679.00</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:49</field>
+	</row>
+
+	<row>
+		<field name="website">RelianceDigital</field>
+		<field name="title">GOVO Go Buds 900 True Wireless Earbuds with Up to 20 Hours Playback, Black(493072612)</field>
+		<field name="price">Offer Price: Â â‚¹1,999.00</field>
+		<field name="date">2023-05-31</field>
+		<field name="time">10:37:50</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOBASS 400 in-Ear Earphones with 10mm Drivers, Tangle Free cable & 3.5mm Jack Wired HeadsetÂ Â (Platinum Black, In the Ear)</field>
+		<field name="price">â‚¹300</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:01</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOBASS 410 in Ear Earphones with Mic, 3D Bass with XL Drivers & 3.5mm Jack Wired HeadsetÂ Â (Platinum Black, In the Ear)</field>
+		<field name="price">â‚¹449</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:02</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">N/A</field>
+		<field name="price">N/A</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:02</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOBASS 411 in Ear Wired Earphones with HD Mic, 10mm Dynamic Driver & 3.5mm Jack Wired HeadsetÂ Â (Blue, In the Ear)</field>
+		<field name="price">N/A</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:03</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOBASS 411 in Ear Wired Earphones with HD Mic, 10mm Dynamic Driver & 3.5mm Jack Wired HeadsetÂ Â (White, In the Ear)</field>
+		<field name="price">N/A</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:03</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOBASS 610 in-Ear Earphones with 12mm Drivers, Tangle Free cable & 3.5mm Jack Wired HeadsetÂ Â (Platinum Black, In the Ear)</field>
+		<field name="price">â‚¹400</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:04</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOBASS 900 in-Ear Earphones with 10mm Drivers, Tangle Free cable & 3.5mm Jack Wired HeadsetÂ Â (Platinum Black, In the Ear)</field>
+		<field name="price">â‚¹549</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:05</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOBASS 910 Wired Metal Earphones with 9mm Drivers,Tangle Free cable & 3.5mm Jack Wired HeadsetÂ Â (Gun Metal Gray, In the Ear)</field>
+		<field name="price">â‚¹549</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:05</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOBOLD 400 Bluetooth Wireless On Ear Headphones with 40mm Drivers &15H Playtime Bluetooth HeadsetÂ Â (Platinum Black, On the Ear)</field>
+		<field name="price">N/A</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:06</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOBOLD 410 Bluetooth Wireless On Ear Headphones with 40mm Drivers &15H Playtime Bluetooth HeadsetÂ Â (Platinum Black, On the Ear)</field>
+		<field name="price">N/A</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:06</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOBOLD 600 Bluetooth Wireless On Ear Headphones with 40mm Drivers &15H Playtime Bluetooth HeadsetÂ Â (Platinum Black, On the Ear)</field>
+		<field name="price">N/A</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:07</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOBOLD 610 Bluetooth Wireless On Ear Headphones with 40mm Drivers &15H Playtime Bluetooth HeadsetÂ Â (Platinum Black, On the Ear)</field>
+		<field name="price">N/A</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:07</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOBUDS 400 True Wireless in Ear Earbuds, ENC, 25H Playtime, Fast Charge,Type C Bluetooth HeadsetÂ Â (Platinum Black, True Wireless)</field>
+		<field name="price">â‚¹1,003</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:08</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOBUDS 410 True Wireless in Ear Earbuds, 20 Hours Battery,IPX5 & Type C Bluetooth HeadsetÂ Â (Platinum Black, True Wireless)</field>
+		<field name="price">â‚¹1,599</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:09</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOBUDS 600 True Wireless Earbuds,ENC,40H Playtime,Fast Charge,IPX5 & Type C Bluetooth HeadsetÂ Â (Platinum Black, True Wireless)</field>
+		<field name="price">â‚¹1,699</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:09</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOBUDS 621 True Wireless in Ear Earbuds, 20 Hours Battery, Fast Charge & Type C Bluetooth HeadsetÂ Â (Platinum Black, True Wireless)</field>
+		<field name="price">â‚¹1,999</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:10</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOBUDS 901 Bluetooth HeadsetÂ Â (Platinum Black, True Wireless)</field>
+		<field name="price">N/A</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:10</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOBUDS 920 True Wireless Earbuds, 30H Battery, Fast Charge ,IPX5 & Dual pairing Bluetooth HeadsetÂ Â (Platinum Black, True Wireless)</field>
+		<field name="price">â‚¹2,699</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:11</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOCRUSH 410 - Bluetooth Speaker, 1800mAh - 15H Battery, IPX7 & ABS Fabric 4 W Bluetooth SpeakerÂ Â (Platinum Black, Stereo Channel)</field>
+		<field name="price">â‚¹999</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:11</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOCRUSH 421 - Bluetooth Speaker, 1800mAh - 15H Battery, IPX7 & ABS Fabric 5 W Bluetooth SpeakerÂ Â (Platinum Black, Stereo Channel)</field>
+		<field name="price">â‚¹1,210</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:12</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOCRUSH 900 - Bluetooth Speaker, 3600mAh - 25H Battery, IPX7, ABS Fabric 16 W Bluetooth SpeakerÂ Â (Platinum Black, Stereo Channel)</field>
+		<field name="price">â‚¹3,499</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:13</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOKIXX 400 Bluetooth Neckband, 9H Battery, 10mm Drivers, Magnetic buds, Type C Bluetooth HeadsetÂ Â (Platinum Black, In the Ear)</field>
+		<field name="price">â‚¹1,199</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:13</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOKIXX 410 Bluetooth Neckband, 8H battery, 10mm Drivers, IPX5, Magnetic Buds Bluetooth HeadsetÂ Â (Platinum Black, In the Ear)</field>
+		<field name="price">â‚¹1,299</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:14</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOKIXX 421 Bluetooth Neckband, 10H Battery, 10mm Drivers, Magnetic Buds Bluetooth HeadsetÂ Â (Platinum Black, In the Ear)</field>
+		<field name="price">â‚¹1,299</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:15</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOKIXX 610 Bluetooth Neckband, 12H Battery, Magnetic Buds,
+ Lightweight Design Bluetooth HeadsetÂ Â (Platinum Black, In the Ear)</field>
+		<field name="price">â‚¹1,499</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:16</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOKIXX 620 Bluetooth Neckband, 20H Battery, 10mm Drivers, Magnetic Buds Bluetooth HeadsetÂ Â (Platinum Black, In the Ear)</field>
+		<field name="price">â‚¹1,499</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:16</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOKIXX 621 Bluetooth Neckband|22H Battery-Fast Charge,ENC & Smart Magnetic Buds Bluetooth HeadsetÂ Â (Platinum Black, In the Ear)</field>
+		<field name="price">â‚¹1,199</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:17</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOKIXX 630 Bluetooth Neckband,10H Battery-Fast Charge,Dual Pairing,Magnetic Buds Bluetooth HeadsetÂ Â (Platinum Black, In the Ear)</field>
+		<field name="price">â‚¹1,499</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:17</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOKIXX 651 Bluetooth Neckband, 12H Battery-Fast Charge, Metal Magnetic Buds Bluetooth HeadsetÂ Â (Graphite Gray, In the Ear)</field>
+		<field name="price">â‚¹1,599</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:18</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOKIXX 900 Bluetooth Neckband,12H Battery,12mm Drivers, Premium Gun Metal Finish Bluetooth HeadsetÂ Â (Platinum Black, In the Ear)</field>
+		<field name="price">â‚¹1,599</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:18</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOKIXX 952 Bluetooth Neckband, 106H Battery-Fast Charge, ENC, 10mm Drivers Bluetooth HeadsetÂ Â (Gun Metal Grey, In the Ear)</field>
+		<field name="price">â‚¹1,380</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:19</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOSURROUND 410 Max 2.0 Channel Soundbar with HDMI|AUX|USB|OPT & LED Display 40 W Bluetooth SoundbarÂ Â (Platinum Black, 2.1 Channel)</field>
+		<field name="price">â‚¹3,999</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:20</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOSURROUND 430 | 80 W Bluetooth SoundbarÂ Â (Platinum Black, 2.1 Channel)</field>
+		<field name="price">â‚¹4,499</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:21</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOSURROUND 610 | 100 W Bluetooth SoundbarÂ Â (Platinum Black, 2.1 Channel)</field>
+		<field name="price">â‚¹5,499</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:21</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOSURROUND 900 | 200 W Bluetooth SoundbarÂ Â (Platinum Black, 2.1 Channel)</field>
+		<field name="price">â‚¹6,798</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:22</field>
+	</row>
+
+	<row>
+		<field name="website">Flipkart</field>
+		<field name="title">GOVO GOSURROUND 920 200 W Bluetooth SoundbarÂ Â (Platinum Black, 2.1 Channel)</field>
+		<field name="price">â‚¹8,999</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:23</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoBass 400</field>
+		<field name="price">â‚¹299</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:23</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoBass 410</field>
+		<field name="price">â‚¹259</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:24</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoBass 411</field>
+		<field name="price">â‚¹349</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:24</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoBass 411</field>
+		<field name="price">â‚¹349</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:25</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoBass 411</field>
+		<field name="price">â‚¹349</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:25</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoBass 610</field>
+		<field name="price">â‚¹399</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:26</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoBass 900</field>
+		<field name="price">â‚¹549</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:26</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoBass 910</field>
+		<field name="price">â‚¹399</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:27</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoBold 400</field>
+		<field name="price">â‚¹1,199</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:27</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoBold 410</field>
+		<field name="price">â‚¹1,099</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:28</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoBold 600</field>
+		<field name="price">â‚¹1,299</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:28</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoBold 610</field>
+		<field name="price">â‚¹1,399</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:28</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoBuds 400</field>
+		<field name="price">â‚¹999</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:29</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoBuds 410</field>
+		<field name="price">â‚¹1,099</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:29</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoBuds 600</field>
+		<field name="price">â‚¹1,299</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:30</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoBuds 621</field>
+		<field name="price">â‚¹1,699</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:30</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">N/A</field>
+		<field name="price">N/A</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:31</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoBuds 901</field>
+		<field name="price">â‚¹1,599</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:31</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoBuds 902</field>
+		<field name="price">â‚¹1,999</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:31</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoBuds 920</field>
+		<field name="price">â‚¹1,999</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:32</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoCrush 410</field>
+		<field name="price">â‚¹999</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:32</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoCrush 421</field>
+		<field name="price">â‚¹999</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:33</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoCrush 900</field>
+		<field name="price">â‚¹2,499</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:33</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoKixx 400</field>
+		<field name="price">â‚¹699</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:33</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoKixx 410</field>
+		<field name="price">â‚¹699</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:34</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoKixx 421</field>
+		<field name="price">â‚¹749</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:34</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoKixx 610</field>
+		<field name="price">â‚¹799</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:35</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoKixx 620</field>
+		<field name="price">â‚¹899</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:35</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoKixx 621</field>
+		<field name="price">â‚¹999</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:35</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoKixx 630</field>
+		<field name="price">â‚¹899</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:36</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoKixx 651</field>
+		<field name="price">â‚¹1,199</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:36</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GOKIXX 652</field>
+		<field name="price">â‚¹1,199</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:37</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoKixx 900</field>
+		<field name="price">â‚¹999</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:37</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoKixx 952</field>
+		<field name="price">â‚¹1,399</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:37</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">N/A</field>
+		<field name="price">N/A</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:38</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">N/A</field>
+		<field name="price">N/A</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:38</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">N/A</field>
+		<field name="price">N/A</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:39</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">N/A</field>
+		<field name="price">N/A</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:39</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">N/A</field>
+		<field name="price">N/A</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:39</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">N/A</field>
+		<field name="price">N/A</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:40</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">N/A</field>
+		<field name="price">N/A</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:40</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoKixx 621</field>
+		<field name="price">â‚¹999</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:40</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoKixx 621</field>
+		<field name="price">â‚¹999</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:41</field>
+	</row>
+
+	<row>
+		<field name="website">Govolife</field>
+		<field name="title">GoSurround 950</field>
+		<field name="price">â‚¹9,999</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:42</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka.com</field>
+		<field name="title">GOVO GOBASS 400 in-Ear Wired Earphones 3D Bass HD Mic Passive Noise Cancellation (Platinum Black)(Free Size)</field>
+		<field name="price">â‚¹399</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:42</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka.com</field>
+		<field name="title">GOVO GOBASS 410 in-Ear Wired Earphones 3D Bass HD Mic Passive Noise Cancellation (Platinum Black)(Free Size)</field>
+		<field name="price">â‚¹1149</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:42</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka.com</field>
+		<field name="title">GOVO GOBASS 900 in-Ear Wired Earphones 3D Sound Super Bass and HD Mic (Black)(Free Size)</field>
+		<field name="price">â‚¹1399</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:42</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka.com</field>
+		<field name="title">GOVO GOBASS 910 in-Ear Wired Earphones 3D Sound Magnetic Earbuds and HD mic (Black)(Free Size)</field>
+		<field name="price">â‚¹549</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:42</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka.com</field>
+		<field name="title">GOVO GOBUDS 400 TWS Earbuds 3D Stereo Sound 20 Hrs Battery Life IPX5 Touch Control (Platinum Black)(Free Size)</field>
+		<field name="price">â‚¹1099</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:42</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka.com</field>
+		<field name="title">GOVO GOBUDS 600 TWS Earbuds 3D Stereo Sound 33 Hrs Battery IPX5 Super Touch Control (Black)(Free Size)</field>
+		<field name="price">â‚¹1299</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:42</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka.com</field>
+		<field name="title">GOVO GOBUDS 920 TWS Earbuds 30 Hours Battery Life IPX5 BT v5.1 Super Touch Control (Platinum Black)(Free Size)</field>
+		<field name="price">â‚¹2499</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:42</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka.com</field>
+		<field name="title">GOVO GOKIXX 400 in-Ear Wireless Neckband with Magnetic Earbuds 8 Hrs Playtime IPX5 (Platinum Black)(Free Size)</field>
+		<field name="price">â‚¹699</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:42</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka.com</field>
+		<field name="title">GOVO GOKIXX 410 in-Ear Neckband with Magnetic Earbuds 3D Stereo 8 Hrs Playtime (Platinum Black)(Free Size)</field>
+		<field name="price">â‚¹769</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:42</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka.com</field>
+		<field name="title">GOVO GOKIXX 421 in-Ear Neckband with Magnetic Earbuds 10 Hrs+ Playtime IPX5 (Platinum Black)(Free Size)</field>
+		<field name="price">â‚¹699</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:43</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka.com</field>
+		<field name="title">GOVO GOKIXX 610 in-Ear Neckband with Metallic and Magnetic Earbuds 12H Playtime IPX5 (Black)(Free Size)</field>
+		<field name="price">â‚¹799</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:43</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka.com</field>
+		<field name="title">GOVO GOKIXX 620 Wireless Neckband Magnetic buds 3D Surround 20 H Playtime IPX5 (Platinum Black)(Free Size)</field>
+		<field name="price">â‚¹799</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:43</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka.com</field>
+		<field name="title">GOVO GOKIXX 630 in-Ear Neckband with Magnetic Earbuds 10 Hrs+ Playtime IPX5 (Platinum Black)(Free Size)</field>
+		<field name="price">â‚¹899</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:43</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka.com</field>
+		<field name="title">GOVO GOKIXX 900 in-Ear Neckband with Magnetic Earbuds 3D Surround 12H Playtime IPX5 (Black)(Free Size)</field>
+		<field name="price">â‚¹899</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:43</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka.com</field>
+		<field name="title">GOVO GOCRUSH 410 Portable BT Speaker 4W sound 15 Hrs Playtime IPX7 ABS fabric (Platinum Black)(Free Size)</field>
+		<field name="price">â‚¹1699</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:43</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka.com</field>
+		<field name="title">GOVO GOCRUSH 421 Portable BT Speaker 5W sound 15 Hrs Playtime IPX7 ABD fabric (Platinum Black)(Free Size)</field>
+		<field name="price">â‚¹1699</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:43</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka.com</field>
+		<field name="title">GOVO GOCRUSH 900 Wireless Speaker 24W Explosive sound 15H Playtime IPX7 ABS Fabric (Black)(Free Size)</field>
+		<field name="price">â‚¹3499</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:44</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka Fashion</field>
+		<field name="title">GOBASS 410 in-Ear Wired Earphones 3D Bass HD Mic Passive Noise Cancellation (Platinum Black)</field>
+		<field name="price">â‚¹701</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:44</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka Fashion</field>
+		<field name="title">GOBASS 400 in-Ear Wired Earphones 3D Bass HD Mic Passive Noise Cancellation (Platinum Black)</field>
+		<field name="price">â‚¹504</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:44</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka Fashion</field>
+		<field name="title">GOBASS 610 in-Ear Wired Earphones with HD-Mic Powerful Bass Hammer Design (Platinum Black)</field>
+		<field name="price">â‚¹806</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:44</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka Fashion</field>
+		<field name="title">GOBASS 900 in-Ear Wired Earphones 3D Sound Super Bass and HD Mic (Black)</field>
+		<field name="price">â‚¹854</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:44</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka Fashion</field>
+		<field name="title">GOBASS 910 in-Ear Wired Earphones 3D Sound Magnetic Earbuds and HD mic (Black)</field>
+		<field name="price">â‚¹854</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:44</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka Fashion</field>
+		<field name="title">GOBUDS 400 TWS Earbuds 3D Stereo Sound 20 Hrs Battery Life IPX5 Touch Control (Platinum Black)</field>
+		<field name="price">â‚¹2,310</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:44</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka Fashion</field>
+		<field name="title">GOBUDS 600 TWS Earbuds 3D Stereo Sound 33 Hrs Battery IPX5 Super Touch Control (Black)</field>
+		<field name="price">â‚¹2,613</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:44</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka Fashion</field>
+		<field name="title">GOBUDS 920 TWS Earbuds 30 Hours Battery Life IPX5 BT v5.1 Super Touch Control (Platinum Black)</field>
+		<field name="price">â‚¹4,788</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:45</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka Fashion</field>
+		<field name="title">GOKIXX 400 in-Ear Wireless Neckband with Magnetic Earbuds 8 Hrs Playtime IPX5 (Platinum Black)</field>
+		<field name="price">â‚¹699</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:45</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka Fashion</field>
+		<field name="title">GOKIXX 410 in-Ear Neckband with Magnetic Earbuds 3D Stereo 8 Hrs Playtime (Platinum Black)</field>
+		<field name="price">â‚¹2,607</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:45</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka Fashion</field>
+		<field name="title">GOKIXX 421 in-Ear Neckband with Magnetic Earbuds 10 Hrs+ Playtime IPX5 (Platinum Black)</field>
+		<field name="price">â‚¹2,607</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:45</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka Fashion</field>
+		<field name="title">GOKIXX 610 in-Ear Neckband with Metallic and Magnetic Earbuds 12H Playtime IPX5 (Black)</field>
+		<field name="price">â‚¹3,002</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:45</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka Fashion</field>
+		<field name="title">GOKIXX 620 Wireless Neckband Magnetic buds 3D Surround 20 H Playtime IPX5 (Platinum Black)</field>
+		<field name="price">â‚¹3,002</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:45</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka Fashion</field>
+		<field name="title">GOKIXX 900 in-Ear Neckband with Magnetic Earbuds 3D Surround 12H Playtime IPX5 (Black)</field>
+		<field name="price">â‚¹3,040</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:45</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka Fashion</field>
+		<field name="title">GOCRUSH 410 Portable BT Speaker 4W sound 15 Hrs Playtime IPX7 ABS fabric (Platinum Black)</field>
+		<field name="price">â‚¹2,800</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:45</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka Fashion</field>
+		<field name="title">GOCRUSH 421 Portable BT Speaker 5W sound 15 Hrs Playtime IPX7 ABD fabric (Platinum Black)</field>
+		<field name="price">â‚¹3,285</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:46</field>
+	</row>
+
+	<row>
+		<field name="website">Nyka Fashion</field>
+		<field name="title">GOCRUSH 900 Wireless Speaker 24W Explosive sound 15H Playtime IPX7 ABS Fabric (Black)</field>
+		<field name="price">â‚¹4,480</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:46</field>
+	</row>
+
+	<row>
+		<field name="website">Jiomart</field>
+		<field name="title">Govo GoBass 410 Wired Earphone with Super Bass,Passive noise cancellation, HD microphone, Multifunction control, Black</field>
+		<field name="price">N/A</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:46</field>
+	</row>
+
+	<row>
+		<field name="website">Jiomart</field>
+		<field name="title">Govo GoBass 610 Wired Earphone with Super Bass, Black</field>
+		<field name="price">N/A</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:46</field>
+	</row>
+
+	<row>
+		<field name="website">Jiomart</field>
+		<field name="title">Govo GoBass 910 Wired Earphone with Super Bass, Black</field>
+		<field name="price">N/A</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:46</field>
+	</row>
+
+	<row>
+		<field name="website">Jiomart</field>
+		<field name="title">GOVO GoBuds 600 True Wireless Bluetooth Earbuds with Up to 33 Hour Battery Life, Platinum Black</field>
+		<field name="price">N/A</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:46</field>
+	</row>
+
+	<row>
+		<field name="website">Jiomart</field>
+		<field name="title">GOVO GoBuds 920 True Wireless Bluetooth Earbuds with Upto 30 Hour Battery Life, Platinum Black</field>
+		<field name="price">N/A</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:46</field>
+	</row>
+
+	<row>
+		<field name="website">Jiomart</field>
+		<field name="title">Govo GOKIXX 410 Wireless Bluetooth Neckband Earphone with IPX5 Water Resistant, Platinum Black</field>
+		<field name="price">N/A</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:46</field>
+	</row>
+
+	<row>
+		<field name="website">Jiomart</field>
+		<field name="title">Govo GOKIXX 610 Wireless Bluetooth Neckband Earphone with IPX5 Water Resistant, Platinum Black</field>
+		<field name="price">N/A</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:47</field>
+	</row>
+
+	<row>
+		<field name="website">Jiomart</field>
+		<field name="title">Govo GOKIXX 620 Wireless Bluetooth Neckband Earphone with IPX5 Water Resistant, Platinum Black</field>
+		<field name="price">N/A</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:47</field>
+	</row>
+
+	<row>
+		<field name="website">Jiomart</field>
+		<field name="title">Govo GOKIXX 900 Wireless Bluetooth Neckband Earphone with IPX5 Water Resistant, Gun Metal Grey</field>
+		<field name="price">N/A</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:47</field>
+	</row>
+
+	<row>
+		<field name="website">Jiomart</field>
+		<field name="title">Govo GoCrush 410 Bluetooth Multimedia Speaker with 3D Sound, IPX7 Water Resistant, Platinum Black</field>
+		<field name="price">N/A</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:47</field>
+	</row>
+
+	<row>
+		<field name="website">Jiomart</field>
+		<field name="title">Govo GoCrush 421 Bluetooth Multimedia Speaker with 3D Sound, IPX7 Water Resistant, Platinum Black</field>
+		<field name="price">N/A</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:47</field>
+	</row>
+
+	<row>
+		<field name="website">Jiomart</field>
+		<field name="title">GOVO Go Buds 900 True Wireless Earbuds with Up to 20 Hours Playback, Black</field>
+		<field name="price">N/A</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:47</field>
+	</row>
+
+	<row>
+		<field name="website">RelianceDigital</field>
+		<field name="title">Govo GoBass 410 Wired Earphone with Super Bass,Passive noise cancellation, HD microphone, Multifunction control, Black(493072621)</field>
+		<field name="price">Offer Price: Â â‚¹369.00</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:51</field>
+	</row>
+
+	<row>
+		<field name="website">RelianceDigital</field>
+		<field name="title">Govo GoBass 610 Wired Earphone with Super Bass, Black(493072622)</field>
+		<field name="price">Offer Price: Â â‚¹449.00</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:52</field>
+	</row>
+
+	<row>
+		<field name="website">RelianceDigital</field>
+		<field name="title">Govo GoBass 910 Wired Earphone with Super Bass, Black(493072624)</field>
+		<field name="price">Offer Price: Â â‚¹389.00</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:57</field>
+	</row>
+
+	<row>
+		<field name="website">RelianceDigital</field>
+		<field name="title">GOVO GoBuds 600 True Wireless Bluetooth Earbuds with Up to 33 Hour Battery Life, Platinum Black(493072611)</field>
+		<field name="price">Offer Price: Â â‚¹1,599.00</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:57</field>
+	</row>
+
+	<row>
+		<field name="website">RelianceDigital</field>
+		<field name="title">GOVO GoBuds 920 True Wireless Bluetooth Earbuds with Upto 30 Hour Battery Life, Platinum Black(493072613)</field>
+		<field name="price">Deal Price: Â â‚¹1,943.00</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:53:58</field>
+	</row>
+
+	<row>
+		<field name="website">RelianceDigital</field>
+		<field name="title">Govo GOKIXX 410 Wireless Bluetooth Neckband Earphone with IPX5 Water Resistant, Platinum Black(493072614)</field>
+		<field name="price">Deal Price: Â â‚¹493.00</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:54:02</field>
+	</row>
+
+	<row>
+		<field name="website">RelianceDigital</field>
+		<field name="title">Govo GOKIXX 610 Wireless Bluetooth Neckband Earphone with IPX5 Water Resistant, Platinum Black(493072616)</field>
+		<field name="price">Offer Price: Â â‚¹1,399.00</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:54:06</field>
+	</row>
+
+	<row>
+		<field name="website">RelianceDigital</field>
+		<field name="title">Govo GOKIXX 620 Wireless Bluetooth Neckband Earphone with IPX5 Water Resistant, Platinum Black(493072617)</field>
+		<field name="price">Offer Price: Â â‚¹1,399.00</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:54:08</field>
+	</row>
+
+	<row>
+		<field name="website">RelianceDigital</field>
+		<field name="title">Govo GOKIXX 900 Wireless Bluetooth Neckband Earphone with IPX5 Water Resistant, Gun Metal Grey(493072619)</field>
+		<field name="price">Offer Price: Â â‚¹1,599.00</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:54:12</field>
+	</row>
+
+	<row>
+		<field name="website">RelianceDigital</field>
+		<field name="title">Govo GoCrush 410 Bluetooth Multimedia Speaker with 3D Sound, IPX7 Water Resistant, Platinum Black(493072625)</field>
+		<field name="price">Offer Price: Â â‚¹1,559.00</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:54:16</field>
+	</row>
+
+	<row>
+		<field name="website">RelianceDigital</field>
+		<field name="title">Govo GoCrush 421 Bluetooth Multimedia Speaker with 3D Sound, IPX7 Water Resistant, Platinum Black(493072626)</field>
+		<field name="price">Offer Price: Â â‚¹1,679.00</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:54:21</field>
+	</row>
+
+	<row>
+		<field name="website">RelianceDigital</field>
+		<field name="title">GOVO Go Buds 900 True Wireless Earbuds with Up to 20 Hours Playback, Black(493072612)</field>
+		<field name="price">Offer Price: Â â‚¹1,999.00</field>
+		<field name="date">2023-06-27</field>
+		<field name="time">10:54:25</field>
+	</row>
+</resultset>
